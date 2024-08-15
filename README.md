@@ -1,2 +1,7 @@
-# Nodejs-Search-Bar
-Search Bar with Node.js and Placeholder API
+# Project Structure:
+- models/movie.js
+- routes/movies.js
+- config/movies.json
+- .env
+- dbConnect.js
+- server.js
