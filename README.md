@@ -2,6 +2,6 @@
 - models/movie.js
 - routes/movies.js
 - config/movies.json
-- .env
-- dbConnect.js
-- server.js
+- .env:
+- dbConnect.js: 
+- server.js: 
